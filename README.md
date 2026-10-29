@@ -12,6 +12,14 @@ You can explore the interactive application here:
 
 Adjust the production proportions and defect rates to see how new evidence changes the probabilities. You can also compare theoretical results with a Monte Carlo simulation.
 
+## Read the Article
+
+Want to understand the mathematics behind this project?
+
+I explain Bayes' Theorem step by step using a simple factory example in my Medium article.
+
+[Read the full article on Medium](https://medium.com/@gizozem.oz/bayes-theorem-from-mathematical-intuition-to-interactive-example-9ae1fcce9dcf)
+
 ## The Problem
 
 Imagine a factory with three production lines. Each line produces a different proportion of products and has its own defect rate.
