@@ -4,6 +4,14 @@ An interactive Python project that explores how new evidence changes probabiliti
 
 The project combines mathematical calculations, Monte Carlo simulation, and an interactive Streamlit application.
 
+## Live Demo
+
+You can explore the interactive application here:
+
+[Try Bayes' Theorem Playground](https://bayes-theorem-playground-gzmoz.streamlit.app/)
+
+Adjust the production proportions and defect rates to see how new evidence changes the probabilities. You can also compare theoretical results with a Monte Carlo simulation.
+
 ## The Problem
 
 Imagine a factory with three production lines. Each line produces a different proportion of products and has its own defect rate.
